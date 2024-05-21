@@ -7,7 +7,7 @@
 
    <picture>
 
-      <img src="https://ebpf.foundation/wp-content/uploads/sites/9/2023/03/ebpf_logo_color_on_white-2-300x108.png" align="right" style="width: 120.0px; height: 43.2px;">
+      <img src="https://ebpf.foundation/wp-content/uploads/sites/9/2023/03/ebpf_logo_color_on_white-2-300x108.png" align="right" width="120" height="43">
 
    </picture>
 
